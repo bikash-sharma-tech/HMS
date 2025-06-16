@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System – Freelance Project
+# 🏥 Hospital Management System 
 
 This project is a fully functional Hospital Management System built during a freelance engagement. It is currently deployed in a live environment and supports the hospital staff in managing IPD, OPD, and Pathology operations.
 
