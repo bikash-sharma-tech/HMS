@@ -139,7 +139,7 @@ Handles test requisitions, result entries, and lab report generation.
 ## 📬 Contact
 
 **Developer**: Bikash Sharma  
-📧 Email: bsharma1499@gmail.com
+📧 Email: bsharma7008@gmail.com
 🌐 Portfolio: https://www.linkedin.com/in/bikash-sharma-tech
 
 > Feel free to reach out if you'd like to collaborate or explore similar solutions!
